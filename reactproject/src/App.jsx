@@ -14,9 +14,7 @@ function App() {
   return (
     <>
      <BooksTable/>  
-     <Course_english/>
-     <Course_matematic/>
-     <Grad_english/>
+     
      <Personal_details/>
     </>
   )
